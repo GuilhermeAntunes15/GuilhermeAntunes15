@@ -1,8 +1,8 @@
 # Hey Guys
 
-#### My name is Guilherme Antunes, I'm 17 years old, currently works as Full Stack Junior 💻
+#### My name is Guilherme Antunes, I'm 18 years old, currently works as Full Stack Junior and Freelancer💻
 
-- 🔭 I’m currently working as a Freelancer and Teacher
+- 🔭 I’m currently working as a  Full Stack Junior and Freelancer
 - 🌱 I’m currently learning React and Python
 - 📫 How to reach me: guiancam@gmail.com
 
