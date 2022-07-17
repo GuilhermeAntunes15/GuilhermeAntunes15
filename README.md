@@ -9,7 +9,7 @@
 ### My website portfolio
 
 <div style="display: inline_block">
-  <a href="http://guilhermeantunes.epizy.com/" target="_blank"><img align="center" alt="portfolio" height="40" width="40" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" /></a>
+  <a href="http://guilhermeantunes.epizy.com/" target="_blank"><img align="center" alt="portfolio" height="40" width="80" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" /></a>
 </div>
 
 ### Skills
@@ -23,6 +23,8 @@
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
+
+<br/>
 
 ![Languages](https://github.com/GuilhermeAntunes15/github-stats/blob/master/generated/languages.svg)
 ![Overview](https://github.com/GuilhermeAntunes15/github-stats/blob/master/generated/overview.svg)
