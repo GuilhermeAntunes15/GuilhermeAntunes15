@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning React and Python
 - 📫 How to reach me: guiancam@gmail.com
 
+[![React][React.js]][React-url]
+
 ![Languages](https://github.com/GuilhermeAntunes15/github-stats/blob/master/generated/languages.svg)
 ![Overview](https://github.com/GuilhermeAntunes15/github-stats/blob/master/generated/overview.svg)
 
