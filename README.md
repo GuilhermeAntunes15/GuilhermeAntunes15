@@ -1,5 +1,16 @@
 # Hey Guys
 
+##
+
+<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=GuilhermeAntunes15&label=Profile%20views&color=blueviolet&style=flat">
+<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/GuilhermeAntunes15?style=flat&color=blueviolet&logo=github" />
+<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/GuilhermeAntunes15?style=flat&color=blueviolet" />
+<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/GuilhermeAntunes15?color=blueviolet" />
+<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/GuilhermeAntunes15?style=flat&color=blueviolet" />
+
+<br />
+<br />
+
 #### My name is Guilherme Antunes, I'm 18 years old, currently works as Full Stack Junior and Freelancer💻
 
 - 🔭 I’m currently working as a  Full Stack Junior and Freelancer
