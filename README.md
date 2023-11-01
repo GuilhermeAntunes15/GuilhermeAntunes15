@@ -38,6 +38,11 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 ![Languages](https://github.com/GuilhermeAntunes15/github-stats/blob/master/generated/languages.svg)
 ![Overview](https://github.com/GuilhermeAntunes15/github-stats/blob/master/generated/overview.svg)
 
