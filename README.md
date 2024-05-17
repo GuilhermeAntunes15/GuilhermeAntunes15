@@ -49,7 +49,7 @@
  > 
 > 🏆 1,012 Contribuições no ano de 2024
  > 
-> 🚫 Não aberto para contratação
+> ✅ Aberto para contratação
  > 
 > 📜 28 Repositórios Públicos 
  > 
