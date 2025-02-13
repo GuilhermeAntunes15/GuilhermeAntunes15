@@ -9,7 +9,7 @@
 <br />
 <br />
 
-#### My name is Guilherme Antunes, I'm 18 years old, currently works as Full Stack Junior and Freelancer💻
+#### My name is Guilherme Antunes, I'm 20 years old, currently works as Full Stack and Freelancer💻
 
 - 🔭 I’m currently working as a  Full Stack Junior and Freelancer
 - 🌱 I’m currently learning React and Python
