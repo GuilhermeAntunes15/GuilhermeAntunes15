@@ -9,10 +9,10 @@
 <br />
 <br />
 
-#### My name is Guilherme Antunes, I'm 20 years old, currently works as Full Stack and Freelancer💻
+#### My name is Guilherme Antunes, I'm 21 years old, currently works as Full Stack and DevOps💻
 
-- 🔭 I’m currently working as a  Full Stack Junior and Freelancer
-- 🌱 I’m currently learning React and Python
+- 🔭 I’m currently working as a Full Stack and DevOps
+- 🌱 I’m currently learning about AI and cyber security
 - 📫 How to reach me: guiancam@gmail.com
 
 ### My website portfolio
