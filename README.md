@@ -1,48 +1,111 @@
-# Hey Guys
+<div align="center">
 
-<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=GuilhermeAntunes15&label=Profile%20views&color=blueviolet&style=flat">
-<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/GuilhermeAntunes15?style=flat&color=blueviolet&logo=github" />
-<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/GuilhermeAntunes15?style=flat&color=blueviolet" />
-<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/GuilhermeAntunes15?color=blueviolet" />
-<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/GuilhermeAntunes15?style=flat&color=blueviolet" />
+### `01 / PERFIL 2026`
 
-<br />
-<br />
+# Guilherme Antunes
 
-#### My name is Guilherme Antunes, I'm 21 years old, currently works as Full Stack and DevOps💻
+*Engenheiro de software — Full-Stack · DevOps · IA*
 
-- 🔭 I’m currently working as a Full Stack and DevOps
-- 🌱 I’m currently learning about AI and cyber security
-- 📫 How to reach me: guiancam@gmail.com
+São Paulo, BR · 5+ anos construindo produto
 
-### My website portfolio
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-artssystem.com.br%2Fantunes-111?style=flat-square)](https://artssystem.com.br/antunes)
+[![Email](https://img.shields.io/badge/Email-guiancam%40gmail.com-111?style=flat-square)](mailto:guiancam@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=GuilhermeAntunes15&label=views&color=111&style=flat-square)](https://github.com/GuilhermeAntunes15)
 
-<div style="display: inline_block">
-  <a href="http://guilhermeantunes.epizy.com/" target="_blank"><img align="center" alt="portfolio" height="40" width="80" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" /></a>
 </div>
 
-### Skills
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+### `02` — Sobre
+
+Construo *sistemas digitais* na interseção entre produto, infraestrutura e design — traduzindo problemas complexos em soluções simples, rápidas e intencionais. Do schema do banco ao pixel da interface, do protótipo ao deploy.
+
+Atualmente lidero entregas full-stack em consultoria e conduzo engenharia de IA/DevOps na Leavo — pipelines de deploy, observabilidade e orquestração de workloads conversacionais em produção.
+
+```
+Full-Stack  ·  DevOps  ·  IA & Automação  ·  Cloud  ·  Dados
+```
+
+---
+
+### `03` — Trajetória
+
+| Período | Papel | Contexto |
+|---------|-------|----------|
+| **2025 — agora** | *DevOps com IA* | Leavo — plataforma de IA de pré-vendas |
+| **2023 — agora** | *Engenheiro Full-Stack · DevOps* | BranchStack — consultoria & software house |
+| 2022 — 2023 | Desenvolvedor Full-Stack | Esphere Consultoria |
+| 2021 — 2022 | Desenvolvedor Web | Freelance & projetos independentes |
+
+---
+
+### `04` — Stack
+
+**Linguagens** &nbsp;·&nbsp; `TypeScript` `JavaScript` `Python` `PHP` `Go` `SQL`
+
+**Front-end** &nbsp;·&nbsp; `React` `Next.js` `Tailwind` `Framer Motion` `Vue`
+
+**Back-end** &nbsp;·&nbsp; `Node.js` `Laravel` `FastAPI` `PostgreSQL` `MySQL` `Redis` `MongoDB`
+
+**DevOps & Cloud** &nbsp;·&nbsp; `Docker` `Kubernetes` `AWS` `Oracle Cloud` `Terraform` `CI/CD` `Nginx` `Linux`
+
+**Dados & IA** &nbsp;·&nbsp; `OpenAI` `LangChain` `Pandas` `RPA` `Web Scraping`
+
+---
+
+### `05` — Trabalhos selecionados
+
+- **[Leavo](https://leavo.ai)** — SaaS · IA de pré-vendas `2025`
+- **[FinMatch](https://www.finmatch.com.br)** — Fintech · crédito B2B `2024`
+- **[Portal Cotar](https://www.portalcotar.com.br)** — Marketplace de cotação `2024`
+- **[Esphere Consultoria](https://www.esphereconsultoria.com.br)** — Institucional premium `2023`
+- **[Onduline](https://br.onduline.com)** — E-commerce B2C/B2B `2023`
+- **[Volungo](https://www.volungo.com)** — Plataforma de engajamento social `2022`
+- **[+Views](https://maisviews.com)** — SaaS · social growth `2022`
+
+→ Portfólio completo em **[artssystem.com.br/antunes](https://artssystem.com.br/antunes)**
+
+---
+
+### `06` — Formação & certificações
+
+- **PUC** — Pós-graduação · Análise de Dados na Saúde *(em curso)*
+- **UNINTER** — Tecnólogo em Banco de Dados
+- **FATEC Guarulhos** — Análise e Desenvolvimento de Sistemas
+- **ETEC** — Técnico em Desenvolvimento de Sistemas
+
+Credenciais técnicas emitidas por `Cisco` `AWS` `Oracle` `IBM` `NASA` `GitHub` — verificáveis via Credly e Oracle Education.
+
+---
+
+### `07` — O que me diferencia
+
+**①** &nbsp; Engenharia fim-a-fim — do banco ao pixel, sem terceiros no caminho.
+**②** &nbsp; Automação onde dói — pipelines, scripts e agentes de IA que transformam trabalho repetitivo em rotina invisível.
+**③** &nbsp; Performance como default — stack afiada, cache pensado, infra previsível.
+**④** &nbsp; Comunicação clara — código para humanos, decisões explicadas sem jargão.
+**⑤** &nbsp; Segurança cedo — hardening e OWASP como parte do design, não remendo.
+**⑥** &nbsp; Design que entende código — UI pensada, não só bonita.
+
+---
+
+### `08` — Números
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAntunes15&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=111&text_color=333&title_color=111)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAntunes15&layout=compact&theme=transparent&hide_border=true&title_color=111&text_color=333)
+
+![Snake](https://github.com/GuilhermeAntunes15/GuilhermeAntunes15/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
-<br/>
+---
 
+<div align="center">
 
+*Construindo o próximo sistema.*
 
-<br/>
+**[artssystem.com.br/antunes](https://artssystem.com.br/antunes)** &nbsp;·&nbsp; **[guiancam@gmail.com](mailto:guiancam@gmail.com)**
 
-![Languages](https://github.com/GuilhermeAntunes15/github-stats/blob/master/generated/languages.svg)
-![Overview](https://github.com/GuilhermeAntunes15/github-stats/blob/master/generated/overview.svg)
-
-![Snake animation](https://github.com/GuilhermeAntunes15/GuilhermeAntunes15/blob/output/github-contribution-grid-snake.svg)
+</div>
